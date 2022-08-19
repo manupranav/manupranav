@@ -7,7 +7,9 @@
 
 </p>
 
-Heyy! I'm Manu Pranav from India. I'm currently learning web development through creating projects.
+<br>
+<p><em>Heyy! I'm Manu Pranav from India. I'm currently learning web development through creating projects.</em></p>
+<br><br>
 
 ## 🔧 Technologies & Tools
 
@@ -24,10 +26,12 @@ Heyy! I'm Manu Pranav from India. I'm currently learning web development through
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Database-MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Hosting-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=6aa6f8)
+<br>
 
 ### 🔥 Streak stats
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=manupranav&theme=nord&hide_border=true">
+<br>
 
 ### 💻 Profile Stats
 
