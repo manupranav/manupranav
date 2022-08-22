@@ -39,7 +39,7 @@ I'm currently learning web development through creating projects.</em></p>
 
 ### 💻 Profile Stats
 
-<img  src="https://github-readme-stats.vercel.app/api?username=manupranav&count_private=true&show_icons=true&hide_border=true&theme=nord&hide_border=true" width="48%"  >
+<img  src="https://github-readme-stats.vercel.app/api?username=manupranav&count_private=true&show_icons=true&hide_border=true&theme=nord&hide_border=true" width="48%" align="right" >
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manupranav&count_private=true&show_icons=true&hide_border=true&theme=nord&layout=compact&hide_border=true" width="48%" >
 <br>
 
