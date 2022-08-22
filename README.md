@@ -1,4 +1,4 @@
-<h2> Hello there 👋 <h2>
+<h2> Hello there 👋 </h2>
 
 <p align="center">
 
@@ -8,7 +8,7 @@
 </p>
 
 <br>
-<p><em>Heyy! I'm Manu Pranav from India. <img src="https://giphy.com/embed/ttknk7M3d3UBEeZsii" width="30"><br><br>
+<p><em>Heyy! I'm Manu Pranav from India. <img src="https://i.giphy.com/26BRIYJNRAreymGwE.gif" width="30"><br><br>
 I'm currently learning web development through creating projects.</em></p>
 <br><br>
 
