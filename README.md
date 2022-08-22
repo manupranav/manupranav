@@ -1,4 +1,4 @@
-# Hi there 👋
+<h2> Hello there 👋 <h2>
 
 <p align="center">
 
@@ -8,8 +8,11 @@
 </p>
 
 <br>
-<p><em>Heyy! I'm Manu Pranav from India. I'm currently learning web development through creating projects.</em></p>
+<p><em>Heyy! I'm Manu Pranav from India. <img src="https://giphy.com/embed/ttknk7M3d3UBEeZsii" width="30"><br><br>
+I'm currently learning web development through creating projects.</em></p>
 <br><br>
+
+
 
 ## 🔧 Technologies & Tools
 
@@ -36,8 +39,8 @@
 
 ### 💻 Profile Stats
 
-<img  src="https://github-readme-stats.vercel.app/api?username=manupranav&count_private=true&show_icons=true&hide_border=true&theme=nord&hide_border=true" width="48%" align="right" >
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manupranav&count_private=true&show_icons=true&hide_border=true&theme=nord&layout=compact&hide_border=true" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=manupranav&count_private=true&show_icons=true&hide_border=true&theme=nord&hide_border=true" width="48%"  >
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manupranav&count_private=true&show_icons=true&hide_border=true&theme=nord&layout=compact&hide_border=true" width="48%" align="right" >
 <br>
 
 ### ⚡ Recent Activity
